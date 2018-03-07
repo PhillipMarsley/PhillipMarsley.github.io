@@ -1,0 +1,11 @@
+@CHARSET 'UTF-8';
+
+html
+{
+	background-image: url(icons/zeldaBackground06.jpg);	
+}
+
+#mainHeaderDiv
+{
+	background: linear-gradient(to bottom, rgba(90, 250, 90, 0.6), rgba(0, 150, 0, 0.6));
+}

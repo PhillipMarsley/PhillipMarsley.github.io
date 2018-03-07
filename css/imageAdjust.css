@@ -1,0 +1,14 @@
+.once img, .halves img, .thirds img
+{
+	max-width: 90px;
+}
+
+.once img	{ width: 24.3%; }
+.halves img	{ width: 51%; }
+.thirds img	{ width: 80%; }
+
+.hearts img
+{
+	max-width: 34px;
+	width: 33%;
+}
