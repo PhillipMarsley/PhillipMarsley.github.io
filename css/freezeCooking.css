@@ -1,8 +1,6 @@
-@CHARSET 'UTF-8';
-
 html
 {
-	background-image: url(icons/zeldaBackground03.png);
+	background-image: url(backgrounds/zeldaBackground03.png);
 }
 
 #mainHeaderDiv

@@ -1,8 +1,6 @@
-@CHARSET 'UTF-8';
-
 html
 {
-	background-image: url(icons/zeldaBackground04.png);
+	background-image: url(backgrounds/zeldaBackground04.png);
 	background-position: top;
 }
 
